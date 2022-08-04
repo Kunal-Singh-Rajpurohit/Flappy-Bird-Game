@@ -5,4 +5,24 @@ The core of Flappy Bird’s gameplay loop was that it was a ‘one more round’
 
 The game will start when we will press either the spacebar or up key. It will exit if we press either the escape key or down key.
 
+The prerequisite of this project is the basic knowledge of python:
 
+   ●	Game Loop =  While loop / Infinite loop in which we repeat the sprites(Images)  to display image on the screen i.e we will blit the image at 32 FPS.
+
+   ●	Events = We will accept the event from the user.
+
+   ●	Sprites = This are the Images we will be using.
+               
+   ●	 Sound = We will be different sounds for different events.
+
+Open basis(images/sound) files in VS code or other editor.
+
+Use pip install pygame in terminal bar to install pygame 
+
+Installed the latest version of pygame
+
+Read the pygame documentation.
+
+Make the necessary imports
+
+Go ahead and code.
